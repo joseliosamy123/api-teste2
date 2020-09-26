@@ -1,0 +1,25 @@
+{
+  "name": "api-teste2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseliosamy123/api-teste2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseliosamy123/api-teste2/issues"
+  },
+  "homepage": "https://github.com/joseliosamy123/api-teste2#readme"
+}
